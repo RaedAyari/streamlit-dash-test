@@ -1,2 +1,6 @@
 streamlit
 beautifulsoup4
+requests==2.32.3
+pandas==2.2.3
+pillow==11.1.0
+protobuf==5.29.2
